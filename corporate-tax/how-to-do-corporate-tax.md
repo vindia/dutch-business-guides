@@ -131,7 +131,7 @@ This is for declaring any revenue / income (_opbrengsten_) for your holding. Sin
 
 ![screenshot](images/25-personeelskosten.png)
 
-This is for declaring all costs for staffing (_personeelskosten_). Since I don’t employ anyone through my holding, this is empty again. 
+This is for declaring all costs for staffing (_personeelskosten_). Since I don’t employ anyone through my holding, this is empty again.
 
 ![screenshot](images/26-afschrijvingen.png)
 
@@ -177,9 +177,9 @@ You will just have one shareholder, so after entering your own name you can cont
 
 ![screenshot](images/36-gegevens-aandeelhouder.png)
 
-Now we add more details about yourself. 
+Now we add more details about yourself.
 
-First question is whether or not you’re a natural person and if you have an aanmerkelijk belang (“significant interest”) in your holding. This means you own at least 5% of the shares of your holding. Usually you have the full 100%, so you answer “Ja” (Yes). 
+First question is whether or not you’re a natural person and if you have an aanmerkelijk belang (“significant interest”) in your holding. This means you own at least 5% of the shares of your holding. Usually you have the full 100%, so you answer “Ja” (Yes).
 
 Then it asks if a _burgerservicenummer_ (BSN) (social security number) is known for this person. When you enter “Ja” (yes) you need to specifiy this number. You can find this number in your personal correspondence with the tax service, on your Dutch ID card or passport, or possibly also on your Dutch foreign registration card.
 
@@ -195,7 +195,7 @@ Now time for the fun part - list all the participations (deelnemingen) your hold
 
 Now you need to enter all details of this participation. We start with the RSIN number of your startups’s B.V. You can find this in the letters you received from the tax service. This number is different from the RSIN of your holding.
 
-Then we enter the percentage of shares that my holding owns. We were with 2 founders and split the shares evenly: 5000 shares of €0,01 each, for a total amount of €50 euro per founder. 
+Then we enter the percentage of shares that my holding owns. We were with 2 founders and split the shares evenly: 5000 shares of €0,01 each, for a total amount of €50 euro per founder.
 
 After Rockstart’s participation in our startup’s B.V., our startup’s B.V. issued 870 extra shares for Rockstart, which brought the total shares for each founder down to 46%. If you’re a single founder, or with multiple founders, these numbers differ of course. Please check your Participation and Shareholders Agreement (PSA) between Rockstart and your startup for the actual numbers. Also, if you’ve issued more shares for later participations, this percentage is also different.
 
@@ -257,7 +257,7 @@ Another overview of the tax you need to pay, this time taking into account you f
 
 ![screenshot](images/52-ondertekenen.png)
 
-You’re done! All that’s left is to sign and submit the tax report to the tax service. The question on the top (“Did you in this tax report take any position of which you’d like an explicit answer of the tax service”) can be answered with “Nee” (no). 
+You’re done! All that’s left is to sign and submit the tax report to the tax service. The question on the top (“Did you in this tax report take any position of which you’d like an explicit answer of the tax service”) can be answered with “Nee” (no).
 
 Then add your initials, any insertions between your first and last name, your last name, your role in the organisation (“Owner” or _Eigenaar_ will do) and your phone number.
 
