@@ -21,7 +21,7 @@ If any of these assumptions do not apply to your situation, please check with an
 3. You need to supply a final balance sheet. You can make this yourself or ask your accountant to do so.
 4. You need to add a copy of your passport or other valid means of identification, A4 sized. You can black out your photo and social security number.
 
-All these need to be printed out, and sent to your nearest KvK office via snail mail. [Find the right address here](https://www.kvk.nl/over-de-kvk/over-het-handelsregister/postadressen/)
+All these need to be printed out, and sent to your nearest KvK office via snail mail. [Find the right address here](https://www.kvk.nl/over-de-kvk/over-het-handelsregister/postadressen/).
 
 ### 1. Fill in form 17a
 It's quite a long one, but there's not that much to fill in. [Grab it from their website](https://www.kvk.nl/download/Formulier-17a-ontbinding-vennootschap-rechtspersoon-of-maatschap_tcm109-365610.pdf) and fill it in.
@@ -35,7 +35,7 @@ It's quite a long one, but there's not that much to fill in. [Grab it from their
 * 8 - Just to double check. You should have a checkmark at _ontbinding rechtspersoon_ (dissolvement of legal entity) and then at _nee_ (no, this is a dissolvement of a legal entity without benefits)
 
 ### 2. Statement of the general assembly of shareholders
-See [the template I've used (in PDF)](template-dissolvement--statement.pdf)
+See [the template I've used (in PDF)](template-dissolvement-statement.pdf)
 
 You just need to add the details of your holding, the date of dissolvement and your own personal details and signature.
 
