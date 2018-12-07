@@ -23,6 +23,8 @@ If any of these assumptions do not apply to your situation, please check with an
 
 All these need to be printed out, and sent to your nearest KvK office via snail mail. [Find the right address here](https://www.kvk.nl/over-de-kvk/over-het-handelsregister/postadressen/).
 
+> There's also a form 17b. In this case of a turbo liquidation, you do not need to submit that form.
+
 ### 1. Fill in form 17a
 It's quite a long one, but there's not that much to fill in. [Grab it from their website](https://www.kvk.nl/download/Formulier-17a-ontbinding-vennootschap-rechtspersoon-of-maatschap_tcm109-365610.pdf) and fill it in.
 
